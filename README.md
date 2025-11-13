@@ -1,7 +1,7 @@
 ### Olá, meu nome é Isa Maria 👋
 
-- 🌱 Estudante de Sistemas de Informação 6/8
-- 👯 Desenvolvedora Backend Java na Ci&T
+- 🌱 Product Owner at SAI
+- 👯 Mestranda em Engenharia de Sistemas e Produtos
 
 <div align="center">
   <a href="https://github.com/hamaraisadev">
