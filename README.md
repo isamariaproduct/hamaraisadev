@@ -1,35 +1,44 @@
-# 🎉 Bem-vindo(a) ao meu repositório!
+# 👋 Olá, eu sou **Isa Maria**  
+### 🎯 Product Owner | SAI / IMAP  
 
-Olá! 👋  
-Este é o lugar onde guardo minhas aventuras tecnológicas, projetos experimentais e códigos que (milagrosamente 🪄) funcionam.
-
----
-
-## 🚀 Sobre este projeto
-
-Este repositório existe para:
-
-- ✨ Testar ideias malucas que surgem às 3 da manhã  
-- 🛠️ Construir ferramentas úteis (ou quase)  
-- 🧪 Experimentar novas tecnologias  
-- 📚 Aprender sempre — mesmo quando dá erro (principalmente quando dá erro!)
-
-Se algo quebrar no caminho…  
-💥 *faz parte da jornada*.
+Bem-vindo(a) ao meu cantinho no GitHub — onde organização encontra caos criativo, transparência pública vira código e o SAI nunca dorme 😄
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+## ✨ Sobre mim
 
-- Python 🐍  
-- JavaScript ⚡  
-- Git & GitHub 🐙  
-- Markdown 📝  
-- Muito café ☕ e perseverança
+- 🧠 Product Owner focada no **Sistema de Acesso à Informação (SAI)**  
+- 🛠️ Atuando no IMAP com paixão por **transparência, usabilidade e governo digital**  
+- 🎨 Criativa por natureza — entre um backlog e outro, sempre tem espaço pra design  
+- ⚡ Obcecada por deixar tudo mais simples, claro e bonito  
+- 🐈 Amante oficial de cafés, checklists e fluxos muito bem pensados
 
 ---
 
-## 📦 Como rodar o projeto
+## 🚀 O que você vai encontrar aqui?
+
+- Pequenos experimentos que deram certo  
+- Grandes ideias que ainda estou domando  
+- Projetos que misturam tecnologia + gestão + criatividade  
+- Um pouquinho de caos (controlado)  
+- E, claro, alguns bugs que finjo que não vi 👀
+
+---
+
+## 🧩 Tecnologias & Ferramentas
+
+- 🐍 Python  
+- ⚡ JavaScript  
+- 🐙 Git & GitHub  
+- 📚 Markdown  
+- 🧭 Notion (meu segundo cérebro oficial)  
+- 🧪 Postman & APIs  
+- 🧱 SQL (o suficiente para arrumar bagunças)  
+- ✨ Figma, UI/UX, design e arte no caminho
+
+---
+
+## 📦 Como rodar meus projetos
 
 Clone o repositório:
 
