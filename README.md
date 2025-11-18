@@ -1,59 +1,100 @@
-<!-- Banner com foto + estilo animado -->
 <div align="center">
 
-  
-  <h1>👋 Olá! Eu sou a Isa Maria</h1>
-  <h3>Product Owner | Estratégia • Clareza • Entrega de Valor 🚀</h3>
+# 👋 Oi! Eu sou a **Isa Maria**
+### A Product Owner que organiza o caos, doma backlog selvagem e faz sprints felizes ✨
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F5eXJ6bWd2bjIyNWc4Y2w4a2hodGZpZWdzdDd4amp2ZG5yZ2twYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="350" />
+<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="300">
+
 </div>
 
 ---
 
-## 🏅 Badges que contam minha história
+## 💡 Quem sou eu no rolê do produto?
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Owner-%F0%9F%92%A1-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scrum-%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/UX%20Mindset-%F0%9F%8C%88-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Discovery-%F0%9F%94%8D-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data%20Driven-%F0%9F%93%8A-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Comunicação-%F0%9F%92%AC-red?style=for-the-badge">
-</p>
+Imagina alguém que:
 
----
+- transforma um pedido confuso tipo “melhora aí isso aqui” em **épicos clarinhos e histórias redondinhas**  
+- traduz conversas entre Devs, Stakeholders, Design e Universo Paralelo  
+- mantém a calma quando o backlog tenta fugir correndo pela janela  
+- acredita fielmente que **cada entregável deve fazer sentido para alguém de verdade**
 
-## 🌟 Sobre mim
-
-Sou uma Product Owner apaixonada por transformar desafios reais em soluções funcionais, escaláveis e centradas no usuário.
-
-💡 Acredito que um bom produto nasce da combinação entre **visão clara**, **boa comunicação** e **entrega consistente**.  
-💼 Atuo colaborando com times multidisciplinares para gerar impacto real — especialmente no contexto de produtos públicos.
+Pois é. Essa sou eu, **Isa Maria**, a PO que vive no equilíbrio entre visão e execução.  
+(E café. Muito café. ☕)
 
 ---
 
-## 🚀 O que eu faço
+## 🚀 Minhas super habilidades de Product Owner
 
-- 📌 Transformo insights em épicos, histórias e entregas claras  
-- 🎯 Priorizo o que realmente importa  
-- 🤝 Aproximo engenharia, design e negócio  
-- 🧭 Conduzo rituais, discovery e alinhamentos estratégicos  
-- 📊 Tomo decisões com base em dados (e um pouco de intuição também 😄)
-
----
-
-## 🔧 Ferramentas e métodos favoritos
-
-<p align="left">
-  • Jira / Trello / Notion  
-  • Miro / Figma / Confluence  
-  • GA4 / Data Studio  
-  • Scrum / Kanban / Double Diamond / OKRs  
-</p>
+🧠 **Transformar caos em clareza**  
+💬 **Comunicar até galinha de TI entender**  
+🪄 **Fazer mágica com prioridades**  
+📊 **Falar fluentemente dados sem ser chata**  
+🧭 **Conduzir discovery sem perder o rumo**  
+📝 **Backlogs tão organizados que dariam orgulho a Marie Kondo**
 
 ---
 
-## 🎬 Vibez de Product Owner
+## 🛠️ Ferramentas que me escutam reclamar diariamente
+
+| Tipo | Ferramentas |
+|------|-------------|
+| Organização | Jira, Trello, Notion |
+| Colaboração | Figma, Miro, Confluence |
+| Métricas | GA4, Data Studio |
+| Métodos | Scrum, Kanban, OKRs, Double Diamond |
+
+*(Sim, eu sou dessas que tem prazer genuíno em organizar boards.)*
+
+---
+
+## 😂 Perguntas frequentes que eu ouço o tempo todo
+
+**“Isa, dá pra botar isso na sprint?”**  
+➡️ Dá, se você também colocar um unicórnio no Gantt. 🦄
+
+**“Quanto tempo leva pra fazer?”**  
+➡️ Entre 5 minutos e 5 semanas. Vamos descobrir juntxs.
+
+**“Por que isso tá priorizado?”**  
+➡️ Porque… dados, impacto, alinhamento estratégico e… magia. ✨
+
+**“Você pode só dar uma olhadinha?”**  
+➡️ Nunca é só uma olhadinha.
+
+---
+
+## 🌟 O que você encontra por aqui
+
+📌 templates de discovery  
+📌 modelos de documentação  
+📌 materiais pra squads  
+📌 experimentos  
+📌 rascunhos criativos  
+📌 e talvez algum meme de produto 👀
+
+---
+
+## 🎬 Mood oficial da Isa como PO
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ2YXJ6emQycnhoYjh0dHc4YTRoYTBpeGZwdml0bTRmZ2RoM3QxYSZlcD12
+
+<img src="https://media.giphy.com/media/l3q2zVr6cub8CIkZG/giphy.gif" width="300">
+
+</div>
+
+---
+
+## 📫 Bora conversar?
+
+Adicione aqui: **LinkedIn / e-mail / pombo-correio digital**
+
+---
+
+<div align="center">
+
+### ✨ “Um bom produto traz clareza. Um produto excelente traz propósito.”  
+### — Isa Maria, provavelmente tomando café ☕
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250">
+
+</div>
