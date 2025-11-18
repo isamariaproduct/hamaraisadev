@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="Imagem%20do%20WhatsApp%20de%202025-11-07%20à(s)%2014.51.05_ca0b46e5.jpg" 
-       alt="Foto de perfil" 
-       width="200" 
-       style="border-radius: 12px;" />
 
   <h1>👋 Olá! Eu sou a Isa Maria</h1>
   <h3>Product Owner | Transformando desafios reais em produtos que fazem sentido 🚀</h3>
